@@ -1,0 +1,46 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+}
+
+main{
+    width: 75%;
+    justify-content: center;
+}
+
+h1{
+    text-align: center;
+    border: 20rem;
+}
+
+p{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+img{
+    margin: 0 auto;
+    border-top: 20px groove;
+    border-bottom: 20px ridge;
+    border-radius: 40px;
+    max-width: 50%;
+    height: auto;
+    display: inline-block;
+}
+
+section{
+    text-align: center;
+    font-size: 15px;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    font-size: large;
+    text-align: left;
+}
